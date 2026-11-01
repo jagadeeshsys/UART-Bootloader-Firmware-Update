@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.axf
+*.hex
+*.elf
+*.o
+*.obj
+*.lnp
+*.map
+*.crf
+*.dep
+*.d
+Objects/
+Listings/
+*.tmp
