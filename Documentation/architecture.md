@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A["Host PC - Python Uploader"]
     B["Firmware Binary"]
@@ -30,3 +31,6 @@ flowchart TD
 
     E -. "ACK / NACK" .-> D
     D -. "Response" .-> A
+
+    ```
+    
