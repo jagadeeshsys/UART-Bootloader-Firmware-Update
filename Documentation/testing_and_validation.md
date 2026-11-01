@@ -140,4 +140,5 @@ Physical hardware validation and actual LPC2129 flash programming remain future 
 ![UART Output](Screenshots/uart_bootloader_output.png)
 
 ### Firmware Verification
+
 ![Firmware Verification](Screenshots/firmware_verification.png)
