@@ -1,3 +1,5 @@
+![alt text](Documentation/Screenshots/project-banner.png)
+
 # LPC2129 UART Bootloader for Firmware Update
 
 A UART-based firmware update bootloader developed using Embedded C for the LPC2129 ARM7 microcontroller. This project demonstrates register-level UART communication, custom packet-based firmware transfer, CRC32 integrity verification, sequence management, duplicate packet handling, and firmware validation.
