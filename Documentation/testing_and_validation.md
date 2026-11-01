@@ -130,3 +130,14 @@ The implemented bootloader modules passed the documented software tests.
 The project demonstrates UART driver development, packet parsing, CRC32 validation, firmware transfer logic, sequence management, duplicate packet handling and error recovery.
 
 Physical hardware validation and actual LPC2129 flash programming remain future development tasks.
+
+## Simulation Evidence
+
+### Successful Keil Build
+![Keil Build](Screenshots/keil_successful_build.png)
+
+### UART Bootloader Output
+![UART Output](Screenshots/uart_bootloader_output.png)
+
+### Firmware Verification
+![Firmware Verification](Screenshots/firmware_verification.png)
