@@ -182,3 +182,10 @@ UART-Bootloader-Firmware-Update/
 GitHub: https://github.com/jagadeeshsys
 
 Project Repository: https://github.com/jagadeeshsys/UART-Bootloader-Firmware-Update
+
+## Project Documentation
+
+- [System Architecture](Documentation/architecture.md)
+- [Firmware Update Sequence](Documentation/firmware_update_sequence.md)
+- [UART Packet Format](Documentation/uart_packet_format.md)
+- [Testing and Validation](Documentation/testing_and_validation.md)
